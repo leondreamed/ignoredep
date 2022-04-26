@@ -2,7 +2,7 @@
 
 A placeholder package for ignoring unmatched peerDependency warnings.
 
-For example, `xo` depends on `eslint-import-resolver-webpack` even though I don't its webpack specific features, resulting in this annoying warning:
+For example, `xo` depends on `eslint-import-resolver-webpack` even though I don't use its webpack specific features, resulting in this annoying warning:
 
 ![peerdep issue](assets/peerdep-issue.png)
 
