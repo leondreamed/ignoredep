@@ -1,0 +1,8 @@
+{
+	"name": "ignoredep",
+	"version": "25.9999.0",
+	"files": [
+		"index.js"
+	],
+	"types": "index.d.ts"
+}

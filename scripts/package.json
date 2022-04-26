@@ -1,0 +1,12 @@
+{
+	"name": "@ignoredep/scripts",
+	"type": "module",
+	"dependencies": {
+		"execa": "^6.1.0",
+		"lion-system": "^1.3.21"
+	},
+	"devDependencies": {
+		"@leonzalion/configs": "^1.2.31",
+		"typescript": "^4.6.3"
+	}
+}
