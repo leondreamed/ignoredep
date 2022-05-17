@@ -1,6 +1,6 @@
 import path from 'path'
 import { execaCommandSync as exec } from 'execa';
-import { getProjectDir } from 'lion-system';
+import { getProjectDir } from 'lionconfig';
 
 // Publish versions 0.9999.0 -> 50.9999.0
 
