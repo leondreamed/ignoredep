@@ -1,3 +1,2 @@
 packages:
-  - scripts
-  - depignore
+  - packages/*
