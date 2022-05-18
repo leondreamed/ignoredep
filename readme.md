@@ -4,7 +4,7 @@ A placeholder package for ignoring unmatched peerDependency warnings.
 
 For example, `xo` depends on `eslint-import-resolver-webpack` even though I don't use its webpack specific features, resulting in this annoying warning:
 
-![peerdep issue](assets/peerdep-issue.png)
+![peerdep issue](packages/assets/peerdep-issue.png)
 
 With ignoredep, I can simply specify this in my package.json:
 
