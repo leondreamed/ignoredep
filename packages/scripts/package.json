@@ -1,6 +1,9 @@
 {
 	"name": "@ignoredep/scripts",
 	"type": "module",
+	"scripts": {
+		"autopublish": "ts-node ./autopublish.ts"
+	},
 	"dependencies": {
 		"execa": "^6.1.0"
 	},
