@@ -1,3 +1,3 @@
 # ignoredep
 
-<https://github.com/leonzalion/ignoredep>
+<https://github.com/leondreamed/ignoredep>
