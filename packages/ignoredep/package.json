@@ -1,6 +1,6 @@
 {
 	"name": "ignoredep",
-	"version": "25.9999.0",
+	"version": "200.9999.0",
 	"files": [
 		"index.js"
 	],
