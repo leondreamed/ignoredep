@@ -20,4 +20,4 @@ With ignoredep, I can simply specify this in my package.json:
 
 And the missing peerDependency warning is gone!
 
-`ignoredep` has the versions 0.9999.0 to 25.9999.0 published so you can easily match the major version requirement for any peerDependency.
+`ignoredep` has the versions 0.9999.0 to 200.9999.0 published so you can easily match the major version requirement for any peerDependency.
